@@ -1,4 +1,4 @@
-Privacy Policy Last updated: March 7th, 2022
+Privacy Policy Last updated: March 8th, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use
 and disclosure of Your information when You use the Service and tells You about
@@ -69,7 +69,8 @@ using the Service, as applicable.
 While using Our Service, We may collect, but is not limited to, the following
 data:
 
-Usage Data Personal Data
++ Usage Data
++ Personal Data
 
 # Usage Data
 
@@ -77,9 +78,6 @@ Usage Data is collected automatically when using the Bot.
 
 Usage Data may include information such as what commands you use and other
 diagnostic data.
-
-We may also collect information that Your browser sends whenever You visit our
-Website or when You access the Website by or through a mobile device.
 
 # Personal Data
 
