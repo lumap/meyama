@@ -31,7 +31,7 @@ const bot = deps.createBot({
                     await bot.helpers.deleteMessage(message.channelId, message.id, "Replacing media.discordapp.net with cdn.discordapp.com");
                     await bot.helpers.sendMessage(message.channelId, { content: `From<@${message.authorId}>\n> ` + message.content.replaceAll("https://media.discordapp.net", "https://cdn.discordapp.com") })
                 } catch {
-                    "1";
+                    console.log(`Thanks guild n°${message.guildId} for not letting me delete or send a message in channel n°${message.channelId}`)
                 }
             }
         },
