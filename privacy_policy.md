@@ -1,4 +1,4 @@
-Privacy Policy Last updated: March 8th, 2022
+Privacy Policy Last updated: March 23th, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use
 and disclosure of Your information when You use the Service and tells You about
@@ -22,7 +22,7 @@ For this Privacy Policy:
 Company (referred to as either "the Company", "We", "Us" or "Our" in this
 Agreement) refers to Meyama.
 
-Country refers to Feance.
+Country refers to France.
 
 Device means any device that can access the Service such as a computer, a
 cellphone or a digital tablet.
